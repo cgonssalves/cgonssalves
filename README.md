@@ -29,5 +29,6 @@
 
 <br/>
 Sou um estudante de Engenharia da computação na Universidade do Estado de Minas Gerais, estou bem no começo da minha carreira como desenvolvedor e uso do github para salvar meus projetos pessoais ou que realizo na faculdade, sempre em busca de mais resiliência.
-
-🎖️ Maratona de Programação da SBC 2025 - ICPC
+<div>
+  🎖️ Maratona de Programação da SBC 2025 - ICPC
+</div>
