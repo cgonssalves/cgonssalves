@@ -23,7 +23,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 </div>
 
