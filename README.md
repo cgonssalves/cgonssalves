@@ -18,12 +18,14 @@
   <img width="12" />
 </div>
 
-## Tecnologias que mais possuo domino 🖥️ 
+## Tecnologias que mais possuo domino 🖥️
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-
+</div>
 
 <br/>
 Sou um estudante de Engenharia da computação na Universidade do Estado de Minas Gerais, estou bem no começo da minha carreira como desenvolvedor e uso do github para salvar meus projetos pessoais ou que realizo na faculdade, sempre em busca de mais resiliência. 
