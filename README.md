@@ -31,5 +31,6 @@ Sou um estudante de Engenharia da computação na Universidade do Estado de Mina
 
 <div>
   <p1>🎈 ICPC - Maratona de Programação da SBC 2025 | UFU - Uberlândia </p1>
+  
   <p2>🚀 NASA - International Space Apps Challenge 2025 | Uberlândia </p2>
 </div>
